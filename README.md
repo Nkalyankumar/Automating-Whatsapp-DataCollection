@@ -9,8 +9,13 @@
 4. Data Collection for Instructors in Eduactional Institution: Instructors can collect WhatsApp messages from students efficiently, without the need for manual data entry. This collected data could include discussions, questions, feedback, and more.
 ## Python Modules Used
 1.Selenium
+
 2.Beautiful Soup
+
 3.re
+
 4.time
+
 5.csv
+
 ## Demo
