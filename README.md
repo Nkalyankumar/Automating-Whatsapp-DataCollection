@@ -22,4 +22,5 @@
 
 
 ## Demo
+Click on the below thumbnail for navigatation to the Video
 [![Video](https://github.com/Nkalyankumar/Automating-Whatsapp-DataCollection/assets/102470230/4c67166a-cb42-45fd-a5d1-59e5a14b74aa)](https://youtu.be/jBaJPBwlGbQ?si=3YiY0s0xIfjVNQVx)
