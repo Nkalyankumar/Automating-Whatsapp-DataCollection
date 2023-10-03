@@ -22,5 +22,6 @@
 
 
 ## Demo
-Click on the below thumbnail for navigatation to the Video
+Click on the below Link for navigatation to the DEMO
+
 https://youtu.be/jBaJPBwlGbQ?si=3YiY0s0xIfjVNQVx
